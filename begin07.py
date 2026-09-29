@@ -5,3 +5,9 @@
 # "c" o'zgaruvchisiga 8 (butun son) qiymatini bering.
 
 # Quyidagi ifodani hisoblang: 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin07';
+a = 5
+b = 4
+c = 8
+result = a * b + c
+# "result" qiymatini chop eting.
+print(result)

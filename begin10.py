@@ -9,3 +9,9 @@
 # Quyidagi ifodani hisoblang va "k" o'zgaruvchisiga bering: 'https://github.com/xakimovallamurod/variables_and_types/blob/main/README.md#begin10' 
 
 # "k" qiymatini chop eting.
+a = 5
+b = 4
+c = 2
+d = 8
+k = a * b + c - d
+print(k)
